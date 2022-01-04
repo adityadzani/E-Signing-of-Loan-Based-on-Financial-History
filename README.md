@@ -1,0 +1,5 @@
+## E-Signing-of-Loan-Based-on-Financial-History
+
+Electronic signatures aren’t exactly a novelty. They have been around since the American Civil War, during which contracts were signed through Morse. In a modern setting, an e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign is meant to complete transactions, loops, and agreements electronically.
+
+In our beloved country, Indonesia, electronic signatures are legally recognized and are provided for in the Law of the Republic of Indonesia No. 11 of 2008 on Electronic Information and Transactions as amended by Law of the Republic of Indonesia No. 19 of 2016 (“Law No. 11”), the Government Regulation of the Republic of Indonesia No. 71 of 2019 on the Operation of Electronic Systems and Transactions, and the Government Regulation of the Republic of Indonesia No. 80 of 2019 on Trade Through Electronic Systems. Early adopters in the financial sector have started using e-Sign to get customers to sign loan and card applications, and loan agreements.
